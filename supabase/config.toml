@@ -1,0 +1,4 @@
+project_id = "ruhpsamxlozytorbhayp"
+
+[functions.calculate-impact]
+verify_jwt = false
