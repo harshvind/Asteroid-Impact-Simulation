@@ -47,7 +47,7 @@ Asteroid-Impact-Simulation is a web application designed to visualize and analyz
     ```
 
 6. **Access the website:**
-    - Open [http://localhost:3000](http://localhost:3000) in your browser.
+    - Open [http://localhost:8080](http://localhost:8080) in your browser.
 
 ## Project Structure
 
@@ -61,10 +61,5 @@ impact-vizier-main/
 └── README.md
 ```
 
-## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License.
