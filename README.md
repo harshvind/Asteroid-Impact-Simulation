@@ -55,7 +55,7 @@ Asteroid-Impact-Simulation is a web application designed to visualize and analyz
 ## Project Structure
 
 ```
-impact-vizier-main/
+Asteroid-Impact-Simulation/
 ├── client/         # React frontend
 ├── server/         # Express backend
 ├── models/         # MongoDB models
