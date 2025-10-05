@@ -26,8 +26,8 @@ Asteroid-Impact-Simulation is a web application designed to visualize and analyz
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/impact-vizier.git
-    cd impact-vizier
+    git clone https://github.com/harshvind/Asteroid-Impact-Simulation.git
+    cd Asteroid-Impact-Simulation
     ```
 
 2. **Install dependencies:**
