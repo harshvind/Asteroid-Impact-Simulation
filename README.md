@@ -43,15 +43,14 @@ Asteroid-Impact-Simulation is a web application designed to visualize and analyz
 
 5. **Run the application:**
     ```bash
-    npm start
+    npm run dev
     ```
 
 6. **Access the website:**
 <<<<<<< HEAD
-    - Open [http://localhost:3000](http://localhost:3000) in your browser.
-=======
     - Open [http://localhost:8080](http://localhost:8080) in your browser.
->>>>>>> 6b6be554c5e32d245b207fa698b6b4994c9e4f48
+=======
+
 
 ## Project Structure
 
@@ -66,14 +65,4 @@ impact-vizier-main/
 ```
 
 <<<<<<< HEAD
-## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License.
-=======
-
-
->>>>>>> 6b6be554c5e32d245b207fa698b6b4994c9e4f48
